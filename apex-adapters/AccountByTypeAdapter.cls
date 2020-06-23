@@ -1,9 +1,9 @@
-global with sharing class AccountByTypeApexAdapter
+global with sharing class AccountByTypeAdapter
 	implements PDLM.PropelSearchAdapterV2 {
 
     /**
         Example Search Record Configuration
-        Apex Adapter: AccountByTypeApexAdapter
+        Apex Adapter: AccountByTypeAdapter
         Search Parameters: 
           {
             "accountType": {
