@@ -41,7 +41,7 @@ global with sharing class AccountByTypeAdapter
      * Set a default return object.
      * If you don't want to specific a default, return null.
      */
-	  public string getDefaultObject() { 
+    public string getDefaultObject() { 
         return 'Account';
     }
         
